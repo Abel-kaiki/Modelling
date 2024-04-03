@@ -1,5 +1,10 @@
 # Modelling
 
+# CHANGELOG
+4/3:
+Added ANN file
+Currently not working, need to verify with Gobi
+
 # DRIVE MOUNTING
 Default path is set to
     '/content/drive/MyDrive/ColabNotebooks/Datasets/R_W_Wine_quality.csv')
