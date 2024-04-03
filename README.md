@@ -13,5 +13,3 @@ Instructions
 4. Navigate to drive/MyDrive
 5. Locate the downloaded dataset, right click --> copy path
 6. Use this path for the import
-
-7. 
