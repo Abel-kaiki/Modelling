@@ -9,6 +9,10 @@ Since physicochemical parameters are being used to predict a measurement (qualit
 - It may be more insightful to show the range between predictions and actual qualities (for ex, are predicitons within +-1 of the true value, and if so, then the model may not be as bad as initially thought.
 - CUrrent model has ~50% accuracy, but 98% of predicted qualities are only +-1 from the actual quality
 
+Added type NN
+NOTE:
+Working well
+
 4/3:
 Added ANN file
 Currently not working, need to verify with Gobi
