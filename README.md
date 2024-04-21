@@ -1,6 +1,9 @@
 # Modelling
 
 # CHANGELOG
+22/4:
+Updated type NN to include descriptive stats, pairplots
+
 21/4:
 Added quality NN
 NOTE: 
