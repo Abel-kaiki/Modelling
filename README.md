@@ -1,6 +1,10 @@
 # Modelling
 
 # CHANGELOG
+25/4: Cleaned code; final models uploaded
+NN_type : wine type model
+NN_quality : wine quality model
+
 22/4:
 Updated type NN to include descriptive stats, pairplots
 
