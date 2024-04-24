@@ -1,9 +1,10 @@
 # Modelling
 
 # CHANGELOG
-25/4: Cleaned code; final models uploaded
+25/4: Cleaned code; final models uploaded; supporting documentation uploaded
 - NN_type : wine type model
 - NN_quality : wine quality model
+- figures : folder containg loss functions/time, pair plots, and violin plots.
 
 22/4:
 Updated type NN to include descriptive stats, pairplots
