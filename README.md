@@ -1,6 +1,9 @@
 # Modelling
 
 # CHANGELOG
+
+30/4: Final release
+
 25/4: Cleaned code; final models uploaded; supporting documentation uploaded
 - NN_type : wine type model
 - NN_quality : wine quality model
